@@ -1,0 +1,2 @@
+# js_design_patterns
+JavaScritp常见的设计模式
